@@ -1,3 +1,5 @@
+package model;
+
 import java.util.List;
 
 public class Candidato {
@@ -60,7 +62,7 @@ public class Candidato {
 
     @Override
     public String toString() {
-        return "Candidato{" +
+        return "model.Candidato{" +
                 "rg='" + rg + '\'' +
                 ", nome='" + nome + '\'' +
                 ", pontuacaoDesempenho=" + pontuacaoDesempenho +

@@ -1,3 +1,7 @@
+package handler;
+
+import model.Candidato;
+
 public class TotalHandler extends BaseHandler {
 
     @Override

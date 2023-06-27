@@ -1,3 +1,8 @@
+package handler;
+
+import model.Candidato;
+import model.Experiencia;
+
 public class ExperienciaHandler extends BaseHandler {
 
     @Override

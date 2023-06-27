@@ -1,3 +1,7 @@
+package handler;
+
+import model.Candidato;
+
 public class DesempenhoHandler extends BaseHandler {
 
     @Override

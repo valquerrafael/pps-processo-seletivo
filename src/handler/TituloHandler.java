@@ -1,3 +1,8 @@
+package handler;
+
+import model.Candidato;
+import model.Titulo;
+
 public class TituloHandler extends BaseHandler {
 
     @Override

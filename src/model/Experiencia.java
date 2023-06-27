@@ -1,3 +1,5 @@
+package model;
+
 public class Experiencia {
 
     private final String nome;

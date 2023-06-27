@@ -1,3 +1,5 @@
+package model;
+
 public class Titulo {
 
     private final String nome;

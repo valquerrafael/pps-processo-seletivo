@@ -1,3 +1,7 @@
+package handler;
+
+import model.Candidato;
+
 public abstract class BaseHandler implements Handler {
 
     protected Handler next;
